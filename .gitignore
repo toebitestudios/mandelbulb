@@ -68,7 +68,7 @@ Testing/
 .cache/
 
 # 
-mandelbulb
+src/mandelbulb
 
 # glad
-glad.c
+src/glad.c
